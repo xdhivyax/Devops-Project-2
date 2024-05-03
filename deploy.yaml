@@ -18,4 +18,4 @@ spec:
       - name: myimage
         image: dhivya2409/project2
         ports:
-        - containerport: 80    
+        - containerPort: 80    
