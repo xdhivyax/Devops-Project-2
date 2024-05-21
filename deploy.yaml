@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myimage
-        image: dhivya2409/project2
+        image: dhivya2409/task
         ports:
         - containerPort: 80    
